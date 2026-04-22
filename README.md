@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Indianapolis, Indiana, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `215377` |
 | Location | Indianapolis |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 29 records (9.73%) |
-| Last export | 2026-04-14T22:49:31.112064+00:00 |
+| Full dataset size | 180 records |
+| Free sample size | 18 records (10.0%) |
+| Last export | 2026-04-22T02:00:41.224086+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-indianapolis-indiana-us-sample-215377/releases/download/sample-latest/beamstation_215377_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
