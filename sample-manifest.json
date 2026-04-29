@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22140e9c-0c5c-4b3e-8589-f548c357fa68",
+  "export_job_id": "66d77f44-5dab-4f6d-9fbd-a7ecb2c51c59",
   "id_short": 215377,
-  "published_at": "2026-04-22T07:13:33Z",
+  "published_at": "2026-04-29T07:26:31Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-indianapolis-indiana-us-sample-215377",
   "sample_asset_name": "beamstation_215377_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/215377/beamstation_215377_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 18,
-  "sample_sha256": "6cc730e024c249a41c9b55c398d6f9c0192087be70ab6c1643d3dca986acbff8",
-  "sample_size_bytes": 91637,
-  "total_records": 180
+  "sample_records": 30,
+  "sample_sha256": "9eaa37737e63ac00dd3e61a0fdc27d583961e5c8e9fd81cd1189ad7de4f1af2b",
+  "sample_size_bytes": 141513,
+  "total_records": 300
 }
